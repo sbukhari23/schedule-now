@@ -1,0 +1,17 @@
+{
+  "name": "Schedule Now",
+  "short_name": "Schedule",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eef6fb",
+  "theme_color": "#0f6f94",
+  "description": "Time-block schedule planner with templates, widgets, and reminders.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
